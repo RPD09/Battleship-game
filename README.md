@@ -27,7 +27,7 @@ Podem usar para melhorarem e porem o projeto a funcionar 100% pois até que é u
 <b>UI feito com Krypton -> https://github.com/ComponentFactory/Krypton</b>
 <p></p>
 <p></p>
-<b>Projeto realizado com ajuda do: https://github.com/DreamOutLoud365</b>
+<b>Projeto realizado juntamente com: https://github.com/DreamOutLoud365</b>
 <p></p>
 
 https://user-images.githubusercontent.com/66210711/195928002-e63e497b-bd03-48ca-9598-fb64162b11b8.mp4
