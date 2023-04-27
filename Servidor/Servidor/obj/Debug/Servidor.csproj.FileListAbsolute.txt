@@ -1,0 +1,8 @@
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\rafa2\Downloads\Battleship-game-master\Servidor\Servidor\obj\Debug\Servidor.pdb
