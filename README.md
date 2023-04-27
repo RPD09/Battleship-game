@@ -27,7 +27,7 @@ To see a video of the game in action, click [here](https://user-images.githubuse
 
 ## Updates
 ### April 27, 2023 | Fixed some bugs
-- Players are now only able to attack after placing their boats
+- Players are now only able to attack after placing their ships
 - Real-time play on the attacked player's side is displayed immediately after an attack, rather than waiting until the next play
 - Turns have been implemented to prevent players from making multiple attacks in a row
 - The winner can now be easily identified.
