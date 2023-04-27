@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/66210711/195928002-e63e497b-bd03-48ca-
 
 <h2>Update as of 04/27/2023 - Bugs have been fixed and the game now functions way better.</h2>
 
-- Players are now only able to attack after placing their boats
+- Players are now only able to attack after placing their ships
 - Real-time play on the attacked player's side is now displayed immediately after an attack, rather than waiting until the next play
 - Additionally, turns have been implemented to prevent players from making multiple attacks in a row
 - Finally, the winner can now be easily identified.
