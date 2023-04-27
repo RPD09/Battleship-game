@@ -27,6 +27,8 @@ Feel free to use this project to improve and make it work 100%, as it could be a
 <b>Project created in collaboration with: https://github.com/DreamOutLoud365 | Im the only one updating it now tho.</b>
 <p></p>
 
+<h3>Video showing the game: (This video was when the game was full of bugs, now its working better)</h3>
+
 https://user-images.githubusercontent.com/66210711/195928002-e63e497b-bd03-48ca-9598-fb64162b11b8.mp4
 
 # UPDATES
