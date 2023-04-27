@@ -20,7 +20,7 @@ This was my first time working with Sockets, so the project has some bad code an
 
 ## Credits
 The UI was created with [Krypton](https://github.com/ComponentFactory/Krypton).
-This project was created in collaboration with [DreamOutLoud365](https://github.com/DreamOutLoud365), although the developer is currently the only one updating it.
+This project was created in collaboration with [DreamOutLoud365](https://github.com/DreamOutLoud365), although I am currently the only one updating it.
 
 ## Video (Outdated - recorded when there was many bugs, now its way better)
 To see a video of the game in action, click [here](https://user-images.githubusercontent.com/66210711/195928002-e63e497b-bd03-48ca-9598-fb64162b11b8.mp4).
