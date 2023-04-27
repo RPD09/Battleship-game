@@ -1,6 +1,6 @@
 # Battleship game with Sockets
 
-## Important note:
+## Important note: (Ps: READ UPDATES, scroll all the way down)
 
 If you encounter errors in the code/design upon opening the project, it's due to the references. To resolve this, click on the references for the "Player1" and "Player2" projects and select "add new reference".
 <p></p>
