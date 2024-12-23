@@ -16,7 +16,7 @@ The game has the following features:
 - The winner can now be easily identified.
 
 ## Project Status
-This was my first time working with Sockets, so the project has some bad code and maybe still a few bugs even after the updates. However, I welcome any contributions to improve the project and make it work 100%, as it could be a cool project if it worked 100% well.
+This was my first time working with Sockets, so the project may have some bad code and maybe still a few bugs even after the updates.
 
 ## Sources
 The UI was created with [Krypton](https://github.com/ComponentFactory/Krypton).
